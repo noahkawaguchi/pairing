@@ -1,0 +1,11 @@
+words = [
+    "clippy",
+    "direnv",
+    "nixpkgs",
+    "pkgs",
+    "rustfmt",
+]
+ignore_paths = [
+    "Cargo.lock",
+    "flake.lock",
+]
